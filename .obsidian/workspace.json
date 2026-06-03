@@ -35,8 +35,7 @@
               "title": "3D Building Reconstruction from LiDAR Data"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +198,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "8766700949c5cbf3",
+  "active": "6dd8ee198af1e1d9",
   "lastOpenFiles": [
-    "04_3D_Data_Representation_Structuration/3D Data Representation and Structuration.md",
     "11_3D_Building_Reconstruction_from_LiDAR_Data/3D Building Reconstruction from LiDAR Data.md",
+    "04_3D_Data_Representation_Structuration/3D Data Representation and Structuration.md",
     "11_3D_Building_Reconstruction_from_LiDAR_Data",
     "Untitled",
     "01_Introduction_to_3D_Data_Science/Introduction to 3D Data Science.md",
